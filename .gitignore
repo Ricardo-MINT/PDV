@@ -31,3 +31,4 @@ build/
 # Arquivos do sistema operacional (Linux/Mac/Windows)
 .DS_Store
 Thumbs.db
+pdv.db
