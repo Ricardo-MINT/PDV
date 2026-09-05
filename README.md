@@ -24,15 +24,15 @@ Aplicação desktop de **Ponto de Venda (PDV)** desenvolvida em Python, com foco
    git clone [https://github.com/Ricardo-MINT/PDV.git](https://github.com/Ricardo-MINT/PDV.git)
    cd PDV
 
-# Crie e ative o ambiente virtual:
+## Crie e ative o ambiente virtual:
 
 python -m venv .venv
 source .venv/bin/activate
 
-# Instale as dependências:
+## Instale as dependências:
 
 pip install -r requirements.txt
 
-# Execute a aplicação:
+## Execute a aplicação:
 
 python main.py
