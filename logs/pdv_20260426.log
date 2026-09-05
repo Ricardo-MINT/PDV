@@ -1,0 +1,51 @@
+2026-04-26 20:21:59 | PDV | INFO | main:12 | ============================================================
+2026-04-26 20:21:59 | PDV | INFO | main:13 | Iniciando Sistema PDV MVP
+2026-04-26 20:21:59 | PDV | INFO | main:14 | ============================================================
+2026-04-26 20:21:59 | PDV | INFO | main:19 | Banco de dados inicializado com sucesso
+2026-04-26 20:23:20 | PDV | INFO | main:13 | ============================================================
+2026-04-26 20:23:20 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 20:23:20 | PDV | INFO | main:15 | ============================================================
+2026-04-26 20:23:20 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 20:24:36 | PDV | INFO | main:13 | ============================================================
+2026-04-26 20:24:36 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 20:24:36 | PDV | INFO | main:15 | ============================================================
+2026-04-26 20:24:36 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 20:25:29 | PDV | INFO | main:13 | ============================================================
+2026-04-26 20:25:29 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 20:25:29 | PDV | INFO | main:15 | ============================================================
+2026-04-26 20:25:29 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 20:25:30 | PDV | INFO | __init__:20 | PDVController inicializado
+2026-04-26 20:25:30 | PDV | INFO | nova_venda:107 | Nova venda iniciada
+2026-04-26 20:25:30 | PDV | INFO | __init__:22 | Interface PDV inicializada
+2026-04-26 20:25:30 | PDV | INFO | main:33 | Interface gráfica carregada
+2026-04-26 20:26:42 | PDV | INFO | log_produto_cadastrado:65 | PRODUTO CADASTRADO | 3567241 | Coca-Cola | R$ 5.00
+2026-04-26 20:26:54 | PDV | WARNING | buscar_produto:76 | Produto não encontrado: Coca COla
+2026-04-26 20:29:40 | PDV | INFO | log_produto_cadastrado:65 | PRODUTO CADASTRADO | 7891234567890 | Coca-Cola Lata 350ml | R$ 5.50
+2026-04-26 20:29:44 | PDV | DEBUG | buscar_produto:74 | Produto encontrado: Coca-Cola Lata 350ml
+2026-04-26 20:29:44 | PDV | DEBUG | adicionar_item:139 | Item adicionado: Coca-Cola Lata 350ml x1.0
+2026-04-26 20:30:08 | PDV | INFO | log_venda:53 | VENDA REGISTRADA | Nº 1 | Total: R$ 5.50 | Pagamento: PIX
+2026-04-26 20:30:08 | PDV | INFO | nova_venda:107 | Nova venda iniciada
+2026-04-26 20:30:30 | PDV | DEBUG | buscar_produto:74 | Produto encontrado: Coca-Cola Lata 350ml
+2026-04-26 20:30:30 | PDV | DEBUG | adicionar_item:139 | Item adicionado: Coca-Cola Lata 350ml x1.0
+2026-04-26 20:47:49 | PDV | INFO | log_venda:53 | VENDA REGISTRADA | Nº 2 | Total: R$ 5.45 | Pagamento: DINHEIRO
+2026-04-26 20:47:49 | PDV | INFO | nova_venda:107 | Nova venda iniciada
+2026-04-26 21:20:01 | PDV | INFO | main:13 | ============================================================
+2026-04-26 21:20:01 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 21:20:01 | PDV | INFO | main:15 | ============================================================
+2026-04-26 21:20:01 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 21:20:21 | PDV | INFO | main:13 | ============================================================
+2026-04-26 21:20:21 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 21:20:21 | PDV | INFO | main:15 | ============================================================
+2026-04-26 21:20:21 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 21:21:06 | PDV | INFO | main:13 | ============================================================
+2026-04-26 21:21:06 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 21:21:06 | PDV | INFO | main:15 | ============================================================
+2026-04-26 21:21:06 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 21:21:23 | PDV | INFO | main:13 | ============================================================
+2026-04-26 21:21:23 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-04-26 21:21:23 | PDV | INFO | main:15 | ============================================================
+2026-04-26 21:21:23 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-04-26 21:21:24 | PDV | INFO | __init__:20 | PDVController inicializado
+2026-04-26 21:21:24 | PDV | INFO | nova_venda:107 | Nova venda iniciada
+2026-04-26 21:21:24 | PDV | INFO | __init__:22 | Interface PDV inicializada
+2026-04-26 21:21:24 | PDV | INFO | main:33 | Interface gráfica carregada

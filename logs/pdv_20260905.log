@@ -1,0 +1,20 @@
+2026-09-05 00:33:17 | PDV | INFO | main:13 | ============================================================
+2026-09-05 00:33:17 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-09-05 00:33:17 | PDV | INFO | main:15 | ============================================================
+2026-09-05 00:33:17 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-09-05 00:39:31 | PDV | INFO | main:13 | ============================================================
+2026-09-05 00:39:31 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-09-05 00:39:31 | PDV | INFO | main:15 | ============================================================
+2026-09-05 00:39:31 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-09-05 00:40:50 | PDV | INFO | main:13 | ============================================================
+2026-09-05 00:40:50 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-09-05 00:40:50 | PDV | INFO | main:15 | ============================================================
+2026-09-05 00:40:50 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-09-05 00:42:29 | PDV | INFO | main:13 | ============================================================
+2026-09-05 00:42:29 | PDV | INFO | main:14 | Iniciando Sistema PDV MVP
+2026-09-05 00:42:29 | PDV | INFO | main:15 | ============================================================
+2026-09-05 00:42:29 | PDV | INFO | main:20 | Banco de dados inicializado com sucesso
+2026-09-05 00:42:29 | PDV | INFO | __init__:20 | PDVController inicializado
+2026-09-05 00:42:29 | PDV | INFO | nova_venda:107 | Nova venda iniciada
+2026-09-05 00:42:29 | PDV | INFO | __init__:22 | Interface PDV inicializada
+2026-09-05 00:42:29 | PDV | INFO | main:33 | Interface gráfica carregada
